@@ -236,7 +236,7 @@ H,F"""
         edge_text = sample_edges
 
 
-        image_path = r"C:\Users\Vivian Yip\Pictures\Screenshots\Screenshot 2025-11-08 232832.png"
+        image_path = "Screenshot 2025-11-08 232832.png"
 
         try:
             img = Image.open(image_path)
